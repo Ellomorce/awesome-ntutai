@@ -26,6 +26,9 @@
 2. Attention Mechanisms
     + [Attention for time series forecasting and classification, 2019](https://towardsdatascience.com/attention-for-time-series-classification-and-forecasting-261723e0006d)
 
+#### Libraries Intro
+1. [使用 Merlion 库快速开发时间序列模型](https://www.showmeai.tech/tutorials/45)
+
 ## 工具 Libraries
 + [Orbit](https://github.com/uber/orbit) : Bayesian time series forecasting library developed by Uber.
 + [Merlion](https://github.com/salesforce/Merlion) : time series forecasting library developed by Salesforce.
