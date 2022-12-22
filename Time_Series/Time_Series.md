@@ -28,6 +28,7 @@
 
 ## 工具 Libraries
 + [Orbit](https://github.com/uber/orbit) : Bayesian time series forecasting library developed by Uber.
++ [Merlion](https://github.com/salesforce/Merlion) : time series forecasting library developed by Salesforce.
 + [tsfresh](https://github.com/blue-yonder/tsfresh)
 + [statsmodels](https://www.statsmodels.org/stable/index.html)
 + [sktime](https://github.com/sktime/sktime)
