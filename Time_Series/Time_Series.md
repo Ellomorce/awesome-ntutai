@@ -27,13 +27,15 @@
     + [Attention for time series forecasting and classification, 2019](https://towardsdatascience.com/attention-for-time-series-classification-and-forecasting-261723e0006d)
 
 ## 工具 Libraries
++ [Orbit](https://github.com/uber/orbit) : Bayesian time series forecasting library developed by Uber.
 + [tsfresh](https://github.com/blue-yonder/tsfresh)
 + [statsmodels](https://www.statsmodels.org/stable/index.html)
 + [sktime](https://github.com/sktime/sktime)
 + [FClib](https://github.com/microsoft/forecasting): From Microsoft, but requires specific version of Tensorflow and AzureML.
-+ [Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast):PyTorch based library for time series forecasting, classification, and anomaly detection.
++ [Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast): PyTorch based library for time series forecasting, classification, and anomaly detection.
 + [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)
 + [TFTS (TensorFlow Time Series)](https://github.com/LongxingTan/Time-series-prediction): Tensorflow based library for time series.
++ [Greykite](https://github.com/linkedin/greykite) : time series forecasting library developed by LinkedIN.
 
 ## 論文 Papers
 
