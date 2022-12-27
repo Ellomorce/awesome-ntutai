@@ -18,6 +18,10 @@
 + [穩態時間序列簡介 Introduction to Stationary Time Series](https://mropengate.blogspot.com/2015/04/stationary-and-non-stationary-time.html)
 + [時間序列模型基本概念：AR, MA, ARMA, ARIMA 模型](https://mropengate.blogspot.com/2015/11/time-series-analysis-ar-ma-arma-arima.html)
 
+## 模型 Models
++ [Arima]
++ [RNN]
+  + [LSTM]
 
 ## 論壇資源 Forum & Discussion
 #### 方法 Methodology
