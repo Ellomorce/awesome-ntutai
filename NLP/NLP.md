@@ -1,13 +1,13 @@
 # 自然語言處理 Natural Language Processing
    
 ## 任務 Task
-+ [Sentiment Analysis]
-+ [Language Modelling]
-+ [Named Entity Recognition]
-+ [Information Retrieval]
-+ [Word Embeddings]
-+ [Text Classification]
-+ [Text Generation]
++ [Sentiment Analysis](https://paperswithcode.com/task/sentiment-analysis)
++ [Language Modelling](https://paperswithcode.com/task/language-modelling)
++ [Named Entity Recognition](https://paperswithcode.com/task/named-entity-recognition-ner)
++ [Information Retrieval](https://paperswithcode.com/task/information-retrieval)
++ [Word Embeddings](https://paperswithcode.com/task/word-embeddings)
++ [Text Classification](https://paperswithcode.com/task/text-classification)
++ [Text Generation](https://paperswithcode.com/task/text-generation)
 + Question Answering
 + Machine Translation
 + Relation Extraction
@@ -38,12 +38,14 @@
 #### LMaaS
 + [LMaaS-Papers](https://github.com/txsun1997/LMaaS-Papers)
 
-## 模型 Models
+## 模型與技術 Models & Methods
 + [Transformer](https://paperswithcode.com/method/transformer)
   + [BERT](https://paperswithcode.com/method/bert)
     + [RoBERTa](https://paperswithcode.com/method/roberta)
     + [ALBERT](https://paperswithcode.com/method/albert)
     + [DistilBERT](https://paperswithcode.com/method/distillbert)
+    + [DeBERTa](https://paperswithcode.com/method/deberta)
+    + [PaLM](https://paperswithcode.com/method/palm)
   + [GPT-2](https://paperswithcode.com/method/gpt-2)
   + [GPT-3](https://paperswithcode.com/method/gpt-3)
   + [ELECTRA](https://paperswithcode.com/method/electra)
@@ -54,8 +56,17 @@
 + [RNN](https://paperswithcode.com/methods/category/recurrent-neural-networks)
   + [LSTM](https://paperswithcode.com/method/lstm)
   + [GRU](https://paperswithcode.com/method/gru)
++ [CNN in NLP](https://slds-lmu.github.io/seminar_nlp_ss20/convolutional-neural-networks-and-their-applications-in-nlp.html)
++ [Bag of Words]()
+  + [TF-IDF]()
+  + [Continuous Bag-of-Words Word2Vec](https://paperswithcode.com/method/cbow-word2vec)
++ [n-gram]()
+  + [Bag of N-grams]() 
+  + [fastText](https://paperswithcode.com/method/fasttext)
++ [Skip-gram Word2Vec](https://paperswithcode.com/method/skip-gram-word2vec)
++ [GloVe](https://paperswithcode.com/method/glove)
 
-## 論壇資源 Forum & Discussion
+## 論壇 Forum & Discussion
 #### 方法 Methodology
 
 
