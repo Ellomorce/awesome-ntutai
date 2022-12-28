@@ -14,11 +14,15 @@
 + Natural Language Inference
 + Semantic Textual Similarity
 + Dialogue Generation
++ [NLP-progress](https://nlpprogress.com/) :Task總合整理網站。
++ [中文自然语言处理 Chinese NLP](https://chinesenlp.xyz/#/zh/) :中文NLP Task總合整理網站。
 
 ## 資源大全 Awesome of Awesome Lists
 + [awesome-nlp](https://github.com/keon/awesome-nlp)
 + [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP)
 + [awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
++ [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
++ [funNLP](https://github.com/fighting41love/funNLP)
 
 ## 課程與學習資源 Course & Theory Introduction
 #### Course
@@ -39,6 +43,7 @@
 + [LMaaS-Papers](https://github.com/txsun1997/LMaaS-Papers)
 
 ## 模型與技術 Models & Methods
++ [Diffusion]()
 + [Transformer](https://paperswithcode.com/method/transformer)
   + [BERT](https://paperswithcode.com/method/bert)
     + [RoBERTa](https://paperswithcode.com/method/roberta)
@@ -65,6 +70,7 @@
   + [fastText](https://paperswithcode.com/method/fasttext)
 + [Skip-gram Word2Vec](https://paperswithcode.com/method/skip-gram-word2vec)
 + [GloVe](https://paperswithcode.com/method/glove)
++ [Hidden Markov]()
 
 ## 論壇 Forum & Discussion
 #### 方法 Methodology
@@ -104,7 +110,12 @@
 
 
 ## 論文 Papers
+#### Sentiment Analysis
++ [Stock Market Prediction Using Twitter Sentiment Analysis]()
 
+#### Diffusion
++ [Diffusion-LM Improves Controllable Text Generation](https://paperswithcode.com/paper/diffusion-lm-improves-controllable-text)
++ [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://paperswithcode.com/paper/diffusionbert-improving-generative-masked)
 
 ## 參考程式碼 Code Resources
 + [NLP-with-Python (2019)](https://github.com/susanli2016/NLP-with-Python) :年代雖舊但有很多SKLearn, NLTK, Spacy, Gensim, Textblob實作。
