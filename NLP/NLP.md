@@ -34,16 +34,26 @@
 + [Python 自然语言处理 第二版](https://github.com/apachecn/ailearning/tree/master/docs/nlp) :簡中乾貨
 #### Transformer
 + [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp)
++ [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 #### LMaaS
 + [LMaaS-Papers](https://github.com/txsun1997/LMaaS-Papers)
 
 ## 模型 Models
-+ [BERT]
-  + [RoBERTa] 
-  + [ALBERT]
-+ [Transformer]
-  + [GPT-3]
-+ [Seq2Seq]
++ [Transformer](https://paperswithcode.com/method/transformer)
+  + [BERT](https://paperswithcode.com/method/bert)
+    + [RoBERTa](https://paperswithcode.com/method/roberta)
+    + [ALBERT](https://paperswithcode.com/method/albert)
+    + [DistilBERT](https://paperswithcode.com/method/distillbert)
+  + [GPT-2](https://paperswithcode.com/method/gpt-2)
+  + [GPT-3](https://paperswithcode.com/method/gpt-3)
+  + [ELECTRA](https://paperswithcode.com/method/electra)
+  + [BART](https://paperswithcode.com/method/bart)
+  + [T5](https://paperswithcode.com/method/t5)
+  + [XLNet](https://paperswithcode.com/method/xlnet)
++ [Seq2Seq](https://paperswithcode.com/method/seq2seq)
++ [RNN](https://paperswithcode.com/methods/category/recurrent-neural-networks)
+  + [LSTM](https://paperswithcode.com/method/lstm)
+  + [GRU](https://paperswithcode.com/method/gru)
 
 ## 論壇資源 Forum & Discussion
 #### 方法 Methodology
@@ -60,6 +70,7 @@
 + [Deep Learning For NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 + [torchtext](https://github.com/pytorch/text) :Pytorch面向NLP的資料預處理庫。
 + [Flair](https://github.com/flairNLP/flair) :基於Pytorch的NLP庫。
++ [fairseq](https://github.com/facebookresearch/fairseq) :基於Pytorch的Seq2Seq庫，用於語言建模、機器翻譯、文字生成等，有提供預訓練模型。
 #### [NLTK](https://www.nltk.org/)
 + [nltk_data](https://github.com/nltk/nltk_data)
 + [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial)
