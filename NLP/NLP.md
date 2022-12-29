@@ -14,8 +14,6 @@
 + Natural Language Inference
 + Semantic Textual Similarity
 + Dialogue Generation
-+ [NLP-progress](https://nlpprogress.com/) :Task總合整理網站。
-+ [中文自然语言处理 Chinese NLP](https://chinesenlp.xyz/#/zh/) :中文NLP Task總合整理網站。
 
 ## 資源大全 Awesome of Awesome Lists
 + [awesome-nlp](https://github.com/keon/awesome-nlp)
@@ -73,8 +71,10 @@
 + [Hidden Markov]()
 
 ## 論壇 Forum & Discussion
-#### 方法 Methodology
-
+#### 部落客  Blogger
++ [NLP-progress](https://nlpprogress.com/) :Task總合整理網站。
++ [中文自然语言处理 Chinese NLP](https://chinesenlp.xyz/#/zh/) :中文NLP Task總合整理網站。
++ [Ruder's Blog](https://ruder.io/#open)
 
 ## 工具 Libraries
 #### Tensorflow
@@ -121,5 +121,6 @@
 + [NLP-with-Python (2019)](https://github.com/susanli2016/NLP-with-Python) :年代雖舊但有很多SKLearn, NLTK, Spacy, Gensim, Textblob實作。
 + [Mastering-spaCy Code](https://github.com/PacktPublishing/Mastering-spaCy)
 + [Text Analytics with Python - 2nd Edition Code](https://github.com/dipanjanS/text-analytics-with-python)
++ [NLP in Python](https://github.com/NirantK/NLP_Quickbook)
 
 ## 參考資料集 Datasets
