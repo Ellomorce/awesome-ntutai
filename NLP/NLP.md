@@ -58,8 +58,13 @@
 + [Seq2Seq](https://paperswithcode.com/method/seq2seq)
 + [RNN](https://paperswithcode.com/methods/category/recurrent-neural-networks)
   + [LSTM](https://paperswithcode.com/method/lstm)
-  + [GRU](https://paperswithcode.com/method/gru)
+    + [BI-LSTM]()
+      + [BI-LSTM+CRF]()
+        + [简明条件随机场CRF介绍（附带纯Keras实现）](https://kexue.fm/archives/5542)
+    + [ConvLSTM]()
+    + [GRU](https://paperswithcode.com/method/gru)
 + [CNN in NLP](https://slds-lmu.github.io/seminar_nlp_ss20/convolutional-neural-networks-and-their-applications-in-nlp.html)
+  + [TextCNN]()
 + [Bag of Words]()
   + [TF-IDF]()
   + [Continuous Bag-of-Words Word2Vec](https://paperswithcode.com/method/cbow-word2vec)
@@ -75,6 +80,9 @@
 + [NLP-progress](https://nlpprogress.com/) :Task總合整理網站。
 + [中文自然语言处理 Chinese NLP](https://chinesenlp.xyz/#/zh/) :中文NLP Task總合整理網站。
 + [Ruder's Blog](https://ruder.io/#open)
+
+#### 方法相關 Methodology
++ [你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
 
 ## 工具 Libraries
 #### Tensorflow
@@ -103,6 +111,12 @@
 #### [結巴 jieba](https://github.com/fxsjy/jieba) :主流的簡中斷詞工具。
 #### [Hanlp](https://www.hanlp.com/) :主流的簡中斷詞工具。
 + [pyhanlp](https://github.com/hankcs/pyhanlp)
+#### [LAC](https://github.com/baidu/lac) :百度開發的NLP工具庫。
+#### [FastNLP](https://github.com/fastnlp/fastNLP) :復旦大學邱錫鵬教授開發的輕量NLP庫。
+#### [Jiagu](https://github.com/ownthink/Jiagu) :以Bi-LSTM模型為基礎建構的NLP庫。
+#### [THULAC](http://thulac.thunlp.org/) :北京清華開發的中文詞法分析工具包，具有中文分詞和詞性標注功能，可以繁轉簡。
+#### [pkuseg](https://pypi.org/project/spacy-pkuseg/) :北大開發的中文分詞工具包，提供使用不同領域語料建立的預訓練模型。
+#### [LTP](https://github.com/HIT-SCIR/ltp) :哈爾濱工業大學開發的NLP工具庫。
 #### [PaddleNLP](https://paddlenlp.readthedocs.io/zh/latest/) :PaddlePaddle是百度自製用來對幹TF、Torch的DL框架，我還沒用過你先用看看。PaddleNLP是PP的NLP庫，貌似對中文NLP很有心得。
 + [Github source](https://github.com/PaddlePaddle/PaddleNLP)
 + [PaddleNLP评论观点抽取和属性级情感分析](https://aistudio.baidu.com/aistudio/projectdetail/3360011)
