@@ -21,6 +21,8 @@
 + [awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
 + [Awesome Pretrained Chinese NLP Models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models)
 + [funNLP](https://github.com/fighting41love/funNLP)
++ [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph)
++ [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) : Lots of papers
 
 ## 課程與學習資源 Course & Theory Introduction
 #### Course
@@ -29,11 +31,16 @@
   + [簡中干貨](https://www.showmeai.tech/tutorials/36)
   + [課程影片2021版](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
   + [中文筆記2019版](https://github.com/LooperXX/CS224n-Reading-Notes)
++ [Stanford - Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
++ Stanford CS520 Knowledge Graphs
+  + [官網](https://web.stanford.edu/~vinayc/kg/2021/index-2021.html)
+  + [筆記](https://github.com/JunyiTao/CS520-Knowledge-Graph-Notes-and-Projects)
 + CMU Neural Networks for NLP
   + [官網](https://www.phontron.com/class/nn4nlp2021/)
   + [課程影片](https://www.youtube.com/@neubig/playlists)
   + [程式碼](https://github.com/neubig/nn4nlp-code)
 + [Python 自然语言处理 第二版](https://github.com/apachecn/ailearning/tree/master/docs/nlp) :簡中乾貨
++ [東南大學知識圖譜課程講義](https://github.com/npubird/KnowledgeGraphCourse)
 #### Transformer
 + [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp)
 + [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
@@ -63,8 +70,10 @@
         + [简明条件随机场CRF介绍（附带纯Keras实现）](https://kexue.fm/archives/5542)
     + [ConvLSTM]()
     + [GRU](https://paperswithcode.com/method/gru)
+      + [BiGRU](https://paperswithcode.com/method/bigru)
 + [CNN in NLP](https://slds-lmu.github.io/seminar_nlp_ss20/convolutional-neural-networks-and-their-applications-in-nlp.html)
-  + [TextCNN]()
+  + [TextCNN](https://aistudio.baidu.com/aistudio/projectdetail/3502948)
+  + [IDCNN](https://zhuanlan.zhihu.com/p/511159215)
 + [Bag of Words]()
   + [TF-IDF]()
   + [Continuous Bag-of-Words Word2Vec](https://paperswithcode.com/method/cbow-word2vec)
@@ -96,6 +105,7 @@
 + [torchtext](https://github.com/pytorch/text) :Pytorch面向NLP的資料預處理庫。
 + [Flair](https://github.com/flairNLP/flair) :基於Pytorch的NLP庫。
 + [fairseq](https://github.com/facebookresearch/fairseq) :基於Pytorch的Seq2Seq庫，用於語言建模、機器翻譯、文字生成等，有提供預訓練模型。
++ [Universal Encoder Representations](https://github.com/dbiir/UER-py) :提供大量中文預訓練模型。
 #### [NLTK](https://www.nltk.org/)
 + [nltk_data](https://github.com/nltk/nltk_data)
 + [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial)
@@ -121,11 +131,16 @@
 + [Github source](https://github.com/PaddlePaddle/PaddleNLP)
 + [PaddleNLP评论观点抽取和属性级情感分析](https://aistudio.baidu.com/aistudio/projectdetail/3360011)
 + [ERNIE](https://github.com/PaddlePaddle/ERNIE) :笑死我了有Bert就有Ernie。
++ [Familia](https://github.com/baidu/Familia) :百度出品的 A Toolkit for Industrial Topic Modeling。
+#### [开放知识图谱OpenKG.cn](http://openkg.cn/)
+#### [Snorkel](https://github.com/snorkel-team/snorkel) :A training data creation and management system focused on information extraction
++ [Intro](https://ithelp.ithome.com.tw/articles/10262325)
 
 
 ## 論文 Papers
 #### Sentiment Analysis
 + [Stock Market Prediction Using Twitter Sentiment Analysis]()
++ 
 
 #### Diffusion
 + [Diffusion-LM Improves Controllable Text Generation](https://paperswithcode.com/paper/diffusion-lm-improves-controllable-text)
@@ -136,5 +151,6 @@
 + [Mastering-spaCy Code](https://github.com/PacktPublishing/Mastering-spaCy)
 + [Text Analytics with Python - 2nd Edition Code](https://github.com/dipanjanS/text-analytics-with-python)
 + [NLP in Python](https://github.com/NirantK/NLP_Quickbook)
++ [Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) :Using IDCNN/biLSTM+CRF, biGRU+2ATT
 
 ## 參考資料集 Datasets
