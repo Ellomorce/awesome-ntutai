@@ -22,6 +22,7 @@ No one yet, please welcome to contribute.
   - [Medical](https://github.com/Ellomorce/awesome-ntutai/blob/main/Medical/Medical.md)
   - [Causal Inference](https://github.com/Ellomorce/awesome-ntutai/blob/main/Causal_Inference/Causal_Inference.md)
   - [Finance](https://github.com/Ellomorce/awesome-ntutai/blob/main/Finance/Finance.md)
+  - [Generative Models](https://github.com/Ellomorce/awesome-ntutai/blob/main/Generative_models/Generative_models.md)
 <br>
 
 + Trending
