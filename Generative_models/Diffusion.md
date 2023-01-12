@@ -7,6 +7,7 @@
 #### Theory
 + [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 + [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)
++ [由淺入深了解Difussion Models](https://zhuanlan.zhihu.com/p/525106459)
 
 ## 論壇資源 Forum & Discussion
 #### 方法 Methodology
