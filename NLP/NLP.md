@@ -2,6 +2,7 @@
    
 ## 任務 Task
 + [Sentiment Analysis](https://paperswithcode.com/task/sentiment-analysis)
+  + [Aspect-based Sentiment Analysis, ABSA]()
 + [Language Modelling](https://paperswithcode.com/task/language-modelling)
 + [Named Entity Recognition](https://paperswithcode.com/task/named-entity-recognition-ner)
 + [Information Retrieval](https://paperswithcode.com/task/information-retrieval)
@@ -93,6 +94,10 @@
 #### 方法相關 Methodology
 + [你的CRF层的学习率可能不够大](https://kexue.fm/archives/7196)
 
+#### 情感分析 Sentiment Analysis
++ [ABSA综述解读【万字长文】](https://zhuanlan.zhihu.com/p/498649391)
+
+
 ## 工具 Libraries
 #### Tensorflow
 + [Instruction to Text Classification Using Tensorflow by Google](https://developers.google.com/machine-learning/guides/text-classification/)
@@ -139,8 +144,8 @@
 
 ## 論文 Papers
 #### Sentiment Analysis
-+ [Stock Market Prediction Using Twitter Sentiment Analysis]()
-+ 
++ [Stock Market Prediction Using Twitter Sentiment Analysis, 2021](https://www.researchgate.net/publication/354308107_Stock_Market_Prediction_Using_Twitter_Sentiment_Analysis)
++ [A Survey on Aspect-Based Sentiment Analysis:Tasks, Methods, and Challenges, 2022](https://arxiv.org/pdf/2203.01054.pdf)
 
 #### Diffusion
 + [Diffusion-LM Improves Controllable Text Generation](https://paperswithcode.com/paper/diffusion-lm-improves-controllable-text)
