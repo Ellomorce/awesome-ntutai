@@ -78,6 +78,7 @@
 + [Bag of Words]()
   + [TF-IDF]()
   + [Continuous Bag-of-Words Word2Vec](https://paperswithcode.com/method/cbow-word2vec)
+  + [Bag of Concepts]()
 + [n-gram]()
   + [Bag of N-grams]() 
   + [fastText](https://paperswithcode.com/method/fasttext)
