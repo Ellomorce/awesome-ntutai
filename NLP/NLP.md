@@ -111,6 +111,8 @@
 + [Flair](https://github.com/flairNLP/flair) :基於Pytorch的NLP庫。
 + [fairseq](https://github.com/facebookresearch/fairseq) :基於Pytorch的Seq2Seq庫，用於語言建模、機器翻譯、文字生成等，有提供預訓練模型。
 + [Universal Encoder Representations](https://github.com/dbiir/UER-py) :提供大量中文預訓練模型。
++ [PyABSA](https://github.com/yangheng95/pyabsa) :用於Aspect-based Sentiment Analysis的Python函式庫。
++ [MMSA](https://github.com/thuiar/MMSA) :A unified framework for Multimodal Sentiment Analysis.
 #### [NLTK](https://www.nltk.org/)
 + [nltk_data](https://github.com/nltk/nltk_data)
 + [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial)
