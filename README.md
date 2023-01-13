@@ -25,11 +25,6 @@ No one yet, please welcome to contribute.
   - [Generative Models](https://github.com/Ellomorce/awesome-ntutai/blob/main/Generative_models/Generative_models.md)
 <br>
 
-+ Trending
-  - [Diffusion Model](https://github.com/Ellomorce/awesome-ntutai/blob/main/Diffusion/Diffusion.md)
-  - [Generative Adversarial Network](https://github.com/Ellomorce/awesome-ntutai/blob/main/GAN/GAN.md)
-<br>
-
 + Frequently Used Resources
   + Python Environment
     - [Anaconda](https://repo.anaconda.com/archive/)
