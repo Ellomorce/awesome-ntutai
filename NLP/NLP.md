@@ -157,6 +157,9 @@
 + [Diffusion-LM Improves Controllable Text Generation](https://paperswithcode.com/paper/diffusion-lm-improves-controllable-text)
 + [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://paperswithcode.com/paper/diffusionbert-improving-generative-masked)
 
+## 研討會與工作坊 Seminar & Workshop
++ [SemEval](https://semeval.github.io/) : A series of international NLP research workshops focus on semantic analysis.
+
 ## 參考程式碼 Code Resources
 + [NLP-with-Python (2019)](https://github.com/susanli2016/NLP-with-Python) :年代雖舊但有很多SKLearn, NLTK, Spacy, Gensim, Textblob實作。
 + [Mastering-spaCy Code](https://github.com/PacktPublishing/Mastering-spaCy)
