@@ -127,6 +127,7 @@
 + [CKIP CoreNLP](https://github.com/ckiplab/ckipnlp)
   + [線上使用版](https://ckip.iis.sinica.edu.tw/service/corenlp/)
 + [ckip-transformers](https://github.com/ckiplab/ckip-transformers) :繁中版Transformer。
+  + [Documentation](https://ckip-transformers.readthedocs.io/en/stable/index.html)
   + [線上使用版](https://ckip.iis.sinica.edu.tw/service/transformers/)
 + [用中研院 CKIP Transformers 做中文斷詞，台灣國語不再結巴-親手打造推薦系統](https://ithelp.ithome.com.tw/articles/10295882)
 #### [結巴 jieba](https://github.com/fxsjy/jieba) :主流的簡中斷詞工具。
