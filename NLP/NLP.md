@@ -167,4 +167,7 @@
 + [NLP in Python](https://github.com/NirantK/NLP_Quickbook)
 + [Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) :Using IDCNN/biLSTM+CRF, biGRU+2ATT
 
+## 預訓練模型下載 Pre-Trained Models
++ [fastText Word vectors for 157 languages.](https://fasttext.cc/docs/en/crawl-vectors.html)
+
 ## 參考資料集 Datasets
