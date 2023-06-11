@@ -8,7 +8,7 @@
 + [Information Retrieval](https://paperswithcode.com/task/information-retrieval)
 + [Word Embeddings](https://paperswithcode.com/task/word-embeddings)
 + [Text Classification](https://paperswithcode.com/task/text-classification)
-+ [Stance Classification](https://paperswithcode.com/task/stance-detection)
+  + [Stance Classification](https://paperswithcode.com/task/stance-detection)
 + [Text Generation](https://paperswithcode.com/task/text-generation)
 + [Question Answering](https://paperswithcode.com/task/question-answering)
 + [Machine Translation](https://paperswithcode.com/task/machine-translation)
