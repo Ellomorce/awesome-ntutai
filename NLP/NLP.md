@@ -15,6 +15,7 @@
 + Natural Language Inference
 + Semantic Textual Similarity
 + Dialogue Generation
++ Document Understanding
 
 ## 資源大全 Awesome of Awesome Lists
 + [awesome-nlp](https://github.com/keon/awesome-nlp)
