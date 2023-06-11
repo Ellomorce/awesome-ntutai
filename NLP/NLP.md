@@ -1,6 +1,6 @@
 # 自然語言處理 Natural Language Processing
    
-## 任務 Task
+## 子任務 Subtask
 + [Sentiment Analysis](https://paperswithcode.com/task/sentiment-analysis)
   + [Aspect-based Sentiment Analysis, ABSA]()
 + [Language Modelling](https://paperswithcode.com/task/language-modelling)
