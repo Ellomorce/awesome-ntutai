@@ -8,14 +8,15 @@
 + [Information Retrieval](https://paperswithcode.com/task/information-retrieval)
 + [Word Embeddings](https://paperswithcode.com/task/word-embeddings)
 + [Text Classification](https://paperswithcode.com/task/text-classification)
++ [Stance Classification](https://paperswithcode.com/task/stance-detection)
 + [Text Generation](https://paperswithcode.com/task/text-generation)
-+ Question Answering
-+ Machine Translation
-+ Relation Extraction
-+ Natural Language Inference
-+ Semantic Textual Similarity
-+ Dialogue Generation
-+ Document Understanding
++ [Question Answering](https://paperswithcode.com/task/question-answering)
++ [Machine Translation](https://paperswithcode.com/task/machine-translation)
++ [Relation Extraction](https://paperswithcode.com/task/relation-extraction)
++ [Natural Language Inference](https://paperswithcode.com/task/natural-language-inference)
++ [Semantic Textual Similarity](https://paperswithcode.com/task/semantic-textual-similarity)
++ [Dialogue Generation](https://paperswithcode.com/task/dialogue-generation)
++ [Document Understanding](https://paperswithcode.com/task/document-layout-analysis)
 
 ## 資源大全 Awesome of Awesome Lists
 + [awesome-nlp](https://github.com/keon/awesome-nlp)
