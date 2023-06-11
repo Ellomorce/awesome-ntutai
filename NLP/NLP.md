@@ -150,14 +150,12 @@
 + [Intro](https://ithelp.ithome.com.tw/articles/10262325)
 
 
-## 論文 Papers
+## 論文 Papers (以Review、Survey、Main methods為主)
 #### Sentiment Analysis
-+ [Stock Market Prediction Using Twitter Sentiment Analysis, 2021](https://www.researchgate.net/publication/354308107_Stock_Market_Prediction_Using_Twitter_Sentiment_Analysis)
 + [A Survey on Aspect-Based Sentiment Analysis:Tasks, Methods, and Challenges, 2022](https://arxiv.org/pdf/2203.01054.pdf)
 
-#### Diffusion
-+ [Diffusion-LM Improves Controllable Text Generation](https://paperswithcode.com/paper/diffusion-lm-improves-controllable-text)
-+ [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://paperswithcode.com/paper/diffusionbert-improving-generative-masked)
+#### Stance Detection
++ [Stance Detection: A Survey, 2020](https://aclanthology.org/2022.findings-naacl.94/)
 
 ## 研討會與工作坊 Seminar & Workshop
 + [SemEval](https://semeval.github.io/) : A series of international NLP research workshops focus on semantic analysis.
