@@ -13,7 +13,7 @@ No one yet, please welcome to contribute.
   - [Developing a thesis.](https://github.com/Ellomorce/awesome-ntutai/blob/main/Thesis_Writting/Thesis_Writting.md)
 <br>
 
-+ State of the Art
++ Main Tasks
   - [Natural Language Processing](https://github.com/Ellomorce/awesome-ntutai/blob/main/NLP/NLP.md)
   - [Computer Vision](https://github.com/Ellomorce/awesome-ntutai/blob/main/Computer_Vision/Computer_Vision.md)
   - [Time Series](https://github.com/Ellomorce/awesome-ntutai/blob/main/Time_Series/Time_Series.md)
