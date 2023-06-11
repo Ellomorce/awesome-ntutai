@@ -159,7 +159,7 @@
 + [Stance Detection: A Survey, 2020](https://dl.acm.org/doi/abs/10.1145/3369026)
 
 #### LLM
-+ [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
++ [A Survey of Large Language Models, 2023](https://arxiv.org/pdf/2303.18223.pdf)
 
 ## 研討會與工作坊 Seminar & Workshop
 + [SemEval](https://semeval.github.io/) : A series of international NLP research workshops focus on semantic analysis.
