@@ -156,7 +156,10 @@
 + [A Survey on Aspect-Based Sentiment Analysis:Tasks, Methods, and Challenges, 2022](https://arxiv.org/pdf/2203.01054.pdf)
 
 #### Stance Detection
-+ [Stance Detection: A Survey, 2020](https://aclanthology.org/2022.findings-naacl.94/)
++ [Stance Detection: A Survey, 2020](https://dl.acm.org/doi/abs/10.1145/3369026)
+
+#### LLM
++ [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
 
 ## 研討會與工作坊 Seminar & Workshop
 + [SemEval](https://semeval.github.io/) : A series of international NLP research workshops focus on semantic analysis.
